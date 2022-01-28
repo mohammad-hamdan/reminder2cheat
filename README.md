@@ -2,7 +2,7 @@
 
 base R is enough to run the following functions.
 
-contains two simple functions:
+the package contains two functions:
 
 1. remind_me(): which prints out important things i need to remember
 
